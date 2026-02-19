@@ -11,7 +11,7 @@ while True:
   while inRollDieResponse.strip() != "1":
     print( inRollDieResponse, " is incorrect response, please press 1 to roll a die" )
     inRollDieResponse = input( "Please press 1 to roll a die: " ) 
-  # loop2 ends.    
+  # loop2 ends.        
   
   # If user presses 1 roll die and print the number.
   if inRollDieResponse.strip() == "1":
