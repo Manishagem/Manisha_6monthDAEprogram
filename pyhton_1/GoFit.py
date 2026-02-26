@@ -17,7 +17,7 @@ def GainWorkout(GetAge):
         TempAge = 70
     elif (GetAge>70 and GetAge<100):
         TempAge = 100
-    print( "\n Please find below your 7 day workout plan to gain weight. All the best! \n" )    
+    print( "\n Please find below your 7 day workout plan to gain weight. All the best",inName, "\n" )    
     print( "\n","Weekly Structure: ",GainWorkout_plan[TempAge]["Weekly structure"],"\n\n","Cardio Type: " ,GainWorkout_plan[TempAge]["Cardio Type"],"\n\n","Key Exercises: ", GainWorkout_plan[TempAge]["Key Exercises"],"\n\n","Duration: ", GainWorkout_plan[TempAge]["Duration"],"\n\n","Calorie Recommendation: ", GainWorkout_plan[TempAge]["Calorie Recommendation"],"\n\n","Protein Guidelines: ", GainWorkout_plan[TempAge]["Protein Guidelines"],"\n\n","Expected Weekly Weight Gain: ", GainWorkout_plan[TempAge]["Expected Weekly Weight Gain"],"\n"  )     
 
 # Function prints Loose weight workout upon call, accepts age as argument.
@@ -37,12 +37,12 @@ def LooseWorkout(GetAge):
     elif (GetAge>70 and GetAge<100):
         TempAge = 100 
 
-    print( "\n Please find below your 7 day workout plan to loose weight. All the best! \n" )    
+    print( "\n Please find below your 7 day workout plan to loose weight. All the best",inName, "\n" )    
     print( "\n","Weekly Structure: ",LooseWorkout_plan[TempAge]["Weekly structure"],"\n\n","Cardio Type: " ,LooseWorkout_plan[TempAge]["Cardio Type"],"\n\n","Key Exercises: ", LooseWorkout_plan[TempAge]["Key Exercises"],"\n\n","Duration: ", LooseWorkout_plan[TempAge]["Duration"],"\n\n","Calorie Deficit Recommendation: ", LooseWorkout_plan[TempAge]["Calorie Deficit Recommendation"],"\n\n","Protein Guidelines: ", LooseWorkout_plan[TempAge]["Protein Guidelines"],"\n\n","Expected Weekly Weight Loss: ", LooseWorkout_plan[TempAge]["Expected Weekly Weight Loss"],"\n"  )         
   
    
 # Program execution starts here, Prints a welcome message.
-print( "\n Welcome to GoFit App! \n GoFit generates a 7 day workout plan for you, either to gain or loose weight." )
+print( "\n Welcome to GoFit App! \n\n GoFit generates a 7 day workout plan for you, either to gain or loose weight." )
 # Loop1 to check if user wants another GoFit plan.
 LoopCondition = True
 while LoopCondition:
@@ -68,7 +68,7 @@ while LoopCondition:
     # Loop3 to get correct input from user for his fitness goal.    
         while inFitOpt.strip() != "1" and inFitOpt.strip() != "2":
             print( "\n Incorrect input, please choose one option." )
-            inFitOpt = int(input( "\n Press 1 to choose Gain weight or Press 2 to loose weight: " ))
+            inFitOpt = input( "\n Press 1 to choose Gain weight or Press 2 to loose weight: " )
             continue
     # Loop3 ends
      
