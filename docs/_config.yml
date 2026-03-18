@@ -1,0 +1,17 @@
+title: Manisha Gupta - IAM Engineer Portfolio
+logo: /assets/img/logo.png
+description: A portfolio showcasing my journey as an aspiring IAM Engineer, including projects and learning from a six-month cohort program.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+  - jekyll-remote-theme
+
+# Navigation links
+header_pages:
+  - index.md
+  - resume.md
+  - projects.md
+  - about.md
+  - contact.md
