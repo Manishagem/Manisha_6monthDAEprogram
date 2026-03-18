@@ -8,6 +8,6 @@ permalink: /contact/
 
 You can reach me via:
 
-- Email: [Your Email Here]
-- LinkedIn: [Your LinkedIn Profile Here]
-- GitHub: [Your GitHub Profile Here]
+- Email: manishagupta035@gmail.com
+- LinkedIn: https://www.linkedin.com/in/manisha-gupta-858254204/
+- GitHub: https://github.com/Manishagem

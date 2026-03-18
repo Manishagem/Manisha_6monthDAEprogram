@@ -164,8 +164,8 @@ Users → Authentication Layer → IAM System → Access Control → Enterprise 
 
 ## 📬 Connect With Me
 
-* LinkedIn: *(Add your link here)*
-* GitHub: *(Add your profile link here)*
+* LinkedIn: https://www.linkedin.com/in/manisha-gupta-858254204/
+* GitHub: https://github.com/Manishagem
 
 ---
 
