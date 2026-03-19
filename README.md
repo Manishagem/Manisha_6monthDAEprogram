@@ -2,7 +2,7 @@
 
 Welcome to my GitHub portfolio, documenting my journey through a comprehensive six-month tech cohort! This repository serves as a live portfolio, showcasing my learning, projects, and growth in the tech industry.
 
-**GitHub Portfolio/Pages Link:** [Your GitHub Pages URL Here] - *Please replace this with your actual GitHub Pages URL.*
+https://manishagem.github.io/Manisha_6monthDAEprogram/
 
 ## Cohort Overview
 
