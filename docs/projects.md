@@ -61,37 +61,6 @@ This project demonstrates real-world capabilities in:
 
 ---
 
-## Repository Structure
-
-```
- Project Root
-──  EISP_12Week_ProjectPlan_Monday.xlsx
-──  IAM Engineer.key
-──  Manisha_Gupta_Enterprise_Identity_Security_Plan
-```
-
-### File Details
-
-* Project Plan (Excel)
-
-  * 12-week structured roadmap
-  * Weekly deliverables & milestones
-  * Agile-based execution plan
-
-* IAM Engineer Presentation
-
-  * Core IAM concepts
-  * Architecture overview
-  * Security best practices
-
-* Enterprise Security Plan
-
-  * End-to-end IAM strategy
-  * Architecture diagrams
-  * Governance & compliance model
-
----
-
 ## High-Level Architecture
 
 ```
@@ -130,15 +99,6 @@ Users → Authentication Layer → IAM System → Access Control → Enterprise 
 * Improves operational efficiency through automation
 * Ensures regulatory compliance
 * Enhances user experience with seamless access
-
----
-
-## How to Use This Repository
-
-1. Review the **Project Plan** for execution strategy
-2. Explore the **Security Plan Document** for architecture
-3. Use the **Presentation** for conceptual understanding
-4. Follow phases to replicate or extend the project
 
 ---
 
