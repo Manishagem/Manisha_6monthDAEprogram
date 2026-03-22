@@ -18,7 +18,25 @@ This portfolio serves as a testament to my learning journey, showcasing projects
 
 ### My Journey
 
-I am currently in **Semester 2** of my program, where I am focusing on advanced concepts and practical implementations in IAM. My goal is to become a proficient IAM Engineer, capable of designing, implementing, and managing secure identity solutions.
+My six-month tech cohort is a structured program designed to build comprehensive skills in my chosen field, progressing from foundational learning to intensive project development and final refinement.
+
+-   **Semester 1: Foundations in Python, Unix, and Prompt Engineering**
+    This semester focused on core programming concepts in Python, Unix commands, and prompt engineering, culminating in the development of the "GoFit" Python application.
+
+-   **Semester 2: Workforce Readiness & Professional Branding**
+    Dedicated to professional development, this semester involved building a robust GitHub presence, optimizing LinkedIn, crafting resume.
+
+-   **Semester 3: Project Design & Initial Development**
+    This phase marked the commencement of my Capstone project, focusing on meticulous design, architectural planning, and initiating core development by translating ideas into functional code.
+
+-   **Semester 4: Feature Implementation & Mid-Project Refinement**
+    Building on initial development, this semester involved implementing critical features and functionalities, alongside continuous testing and mid-project refinements to align with project goals.
+
+-   **Semester 5: Advanced Development & Integration**
+    During this semester, the project entered advanced stages, tackling complex functionalities and intricate integrations, with an emphasis on cohesive and robust system operation through thorough testing.
+
+-   **Semester 6: Project Refinement & Completion**
+    The final semester is dedicated to polishing the entire project, including rigorous testing, debugging, comprehensive documentation, and final refinements for deployment or presentation, ensuring a high-quality outcome.
 
 ---
 

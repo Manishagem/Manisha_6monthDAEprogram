@@ -8,25 +8,23 @@ https://manishagem.github.io/Manisha_6monthDAEprogram/
 
 This six-month program is structured to provide a robust foundation in tech, culminating in a significant project build. Here's a breakdown of the semesters:
 
--   **Semester 1: Foundations & Python Project**
-    -   Focused on core programming concepts, with a deep dive into Python.
-    -   Developed foundational projects, including a Python-based application.
+-   **Semester 1: Foundations in Python, Unix, and Prompt Engineering**
+    -   Focused on core programming concepts, with a deep dive into Python. This included learning Unix commands, understanding prompt engineering principles, and developing foundational projects like the "GoFit" Python application.
 
 -   **Semester 2: Workforce Readiness & Professional Branding**
-    -   Dedicated to essential professional development.
-    -   Key activities included:
-        -   Developing a strong GitHub profile and GitHub Pages for showcasing work.
-        -   Optimizing LinkedIn profiles for career opportunities.
-        -   Crafting professional resumes.
-        -   Honing elevator pitches for effective networking.
+    -   Dedicated to essential professional development. Key activities included developing a strong GitHub profile and GitHub Pages for showcasing work, optimizing LinkedIn profiles for career opportunities, crafting professional resumes, and honing elevator pitches for effective networking.
 
--   **Semester 3, 4, & 5: Project Development & Implementation**
-    -   The core building phase of my main project.
-    -   These semesters are dedicated to designing, developing, and implementing the various components of the project, applying the skills and knowledge acquired.
+-   **Semester 3: Project Design & Initial Development**
+    -   This semester marks the beginning of the main project build. The focus is on detailed project design, architectural planning, and initiating the core development phases, translating concepts into tangible code.
+
+-   **Semester 4: Feature Implementation & Mid-Project Refinement**
+    -   Building upon the foundation laid in Semester 3, this phase involves implementing key features and functionalities of the project. Regular reviews and refinements are conducted to ensure the project stays on track and meets objectives.
+
+-   **Semester 5: Advanced Development & Integration**
+    -   The project progresses into advanced development, focusing on complex functionalities, integration of various components, and thorough testing. This semester ensures all parts of the project work cohesively.
 
 -   **Semester 6: Project Refinement & Completion**
-    -   The final phase focused on integrating all project components.
-    -   Included rigorous testing, debugging, documentation, and making final refinements to ensure a high-quality, complete project ready for deployment or presentation.
+    -   The final phase focused on integrating all project components, rigorous testing, debugging, documentation, and making final refinements to ensure a high-quality, complete project ready for deployment or presentation.
 
 ## Learning & Tech Stack
 

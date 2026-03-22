@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-# 🔐 Enterprise Identity Security Project (EISP)
+# Enterprise Identity Security Project (EISP)
 
 ![IAM](https://img.shields.io/badge/Domain-IAM%20%7C%20Cybersecurity-blue)
 ![Cloud](https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure-orange)
@@ -13,7 +13,7 @@ permalink: /projects/
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 The **Enterprise Identity Security Project (EISP)** is a comprehensive initiative focused on designing and implementing a secure, scalable **Identity and Access Management (IAM)** framework for enterprise environments.
 
@@ -26,17 +26,17 @@ This project demonstrates real-world capabilities in:
 
 ---
 
-## 🎯 Key Objectives
+## Key Objectives
 
-* 🔐 Design a secure IAM architecture for enterprise systems
-* 👥 Implement **Role-Based Access Control (RBAC)**
-* 🔄 Automate identity provisioning & de-provisioning
-* 🛡️ Strengthen authentication using modern protocols
-* 📊 Ensure compliance and audit readiness
+* Design a secure IAM architecture for enterprise systems
+* Implement **Role-Based Access Control (RBAC)**
+* Automate identity provisioning & de-provisioning
+* Strengthen authentication using modern protocols
+* Ensure compliance and audit readiness
 
 ---
 
-## 🧠 Skills Demonstrated
+## Skills Demonstrated
 
 * Identity & Access Management (IAM)
 * Security Architecture Design
@@ -47,7 +47,7 @@ This project demonstrates real-world capabilities in:
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 | Category           | Tools / Technologies            |
 | ------------------ | ------------------------------- |
@@ -61,30 +61,30 @@ This project demonstrates real-world capabilities in:
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
-📁 Project Root
-│── 📄 EISP_12Week_ProjectPlan_Monday.xlsx
-│── 📄 IAM Engineer.key
-│── 📄 Manisha_Gupta_Enterprise_Identity_Security_Plan
+ Project Root
+──  EISP_12Week_ProjectPlan_Monday.xlsx
+──  IAM Engineer.key
+──  Manisha_Gupta_Enterprise_Identity_Security_Plan
 ```
 
-### 📌 File Details
+### File Details
 
-* **📊 Project Plan (Excel)**
+* Project Plan (Excel)
 
   * 12-week structured roadmap
   * Weekly deliverables & milestones
   * Agile-based execution plan
 
-* **📽️ IAM Engineer Presentation**
+* IAM Engineer Presentation
 
   * Core IAM concepts
   * Architecture overview
   * Security best practices
 
-* **📄 Enterprise Security Plan**
+* Enterprise Security Plan
 
   * End-to-end IAM strategy
   * Architecture diagrams
@@ -92,7 +92,7 @@ This project demonstrates real-world capabilities in:
 
 ---
 
-## 🏗️ High-Level Architecture
+## High-Level Architecture
 
 ```
 Users → Authentication Layer → IAM System → Access Control → Enterprise Applications
@@ -102,7 +102,7 @@ Users → Authentication Layer → IAM System → Access Control → Enterprise 
 
 ---
 
-## 📅 Project Timeline
+## Project Timeline
 
 | Phase      | Focus Area                          |
 | ---------- | ----------------------------------- |
@@ -114,17 +114,17 @@ Users → Authentication Layer → IAM System → Access Control → Enterprise 
 
 ---
 
-## 🔍 Key Features
+## Key Features
 
-* ✅ Centralized identity management
-* ✅ Secure authentication mechanisms (SSO, MFA-ready)
-* ✅ Automated access provisioning
-* ✅ Audit logging & monitoring
-* ✅ Scalable enterprise architecture
+* Centralized identity management
+* Secure authentication mechanisms (SSO, MFA-ready)
+* Automated access provisioning
+* Audit logging & monitoring
+* Scalable enterprise architecture
 
 ---
 
-## 💡 Business Value
+## Business Value
 
 * Reduces security risks and unauthorized access
 * Improves operational efficiency through automation
@@ -133,7 +133,7 @@ Users → Authentication Layer → IAM System → Access Control → Enterprise 
 
 ---
 
-## 🚀 How to Use This Repository
+## How to Use This Repository
 
 1. Review the **Project Plan** for execution strategy
 2. Explore the **Security Plan Document** for architecture
@@ -142,7 +142,7 @@ Users → Authentication Layer → IAM System → Access Control → Enterprise 
 
 ---
 
-## 📈 Future Enhancements
+## Future Enhancements
 
 * Integrate AI-based anomaly detection
 * Implement Zero Trust Architecture
@@ -151,29 +151,35 @@ Users → Authentication Layer → IAM System → Access Control → Enterprise 
 
 ---
 
-## 👩‍💻 About Me
-
-**Manisha Gupta**
-💼 RPA Developer | IAM & Security Enthusiast | Business Analyst
-
-* 9+ years of experience in Software Development & Automation
-* Expertise in UiPath, C#, SQL, and enterprise systems
-* Currently expanding into **Cybersecurity & Cloud (IAM focus)**
-
----
-
-## 📬 Connect With Me
+## Connect With Me
 
 * LinkedIn: https://www.linkedin.com/in/manisha-gupta-858254204/
 * GitHub: https://github.com/Manishagem
 
 ---
 
-⭐ *If you found this project interesting, feel free to star the repo!*
+* If you found this project interesting, feel free to star the repo!
 
 ---
 
-# 🎲 Roll a Die Python Project
+--- 
+
+# GoFit Application
+
+This project is a Python-based application, "GoFit," designed to help users manage their fitness goals. It demonstrates practical application of Python programming in a real-world scenario.
+
+### Contents
+
+-   **GoFit.py:** The main Python script for the GoFit application.
+-   **GoFitAlgorithmnFlowchart.pdf:** A flowchart detailing the algorithm and logical flow of the GoFit application.
+
+### Purpose
+
+GoFit serves as a foundational project showcasing skills in Python development, algorithmic design, and problem-solving within the health and fitness domain. It represents an early application of learned programming concepts.
+
+---
+
+# Roll a Die Python Project
 
 This project is a simple Python script that simulates rolling a die. It serves as a foundational exercise demonstrating basic Python programming skills, including random number generation and conditional logic.
 

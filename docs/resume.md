@@ -4,13 +4,6 @@ title: Resume
 permalink: /resume/
 ---
 
-# Manisha Gupta
-
-📧 manishagupta035@gmail.com  
-📞 +1 (203) 550-5952  
-📍 Stamford, CT, USA  
-
----
 
 ## Professional Summary
 
