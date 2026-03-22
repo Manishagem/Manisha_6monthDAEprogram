@@ -8,8 +8,8 @@ permalink: /projects/
 
 ![IAM](https://img.shields.io/badge/Domain-IAM%20%7C%20Cybersecurity-blue)
 ![Cloud](https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure-orange)
-![Status](https://img.shields.io/badge/Project-Completed-success)
-![Experience](https://img.shields.io/badge/Experience-9%2B%20Years-informational)
+![Status](https://img.shields.io/badge/Project-InProgress-yellow)
+![Experience](https://img.shields.io/badge/Experience-8%2B%20Years-informational)
 
 ---
 

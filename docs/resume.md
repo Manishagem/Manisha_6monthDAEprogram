@@ -7,7 +7,7 @@ permalink: /resume/
 
 ## Professional Summary
 
-Innovative and detail-oriented professional with around 8 years of experience in designing, developing, and deploying high-quality software solutions. Proficient in multiple programming languages including ASP.Net, C#, SQL, with a strong foundation in Robotic Process Automation (RPA).  
+Innovative and detail-oriented professional with over 8 years of experience in designing, developing, and deploying high-quality software solutions. Proficient in multiple programming languages including ASP.Net, C#, SQL, with a strong foundation in Robotic Process Automation (RPA).  
 
 Experienced in collaborating with cross-functional teams to analyze user needs and deliver solutions that streamline operations and drive cost savings. Proven track record of delivering projects on time while adhering to industry best practices.
 
