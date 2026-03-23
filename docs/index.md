@@ -16,7 +16,8 @@ This portfolio serves as a testament to my learning journey, showcasing projects
 
 ---
 
-### My Journey
+### My Journey 
+#### Graduation Date 16th July, 2025
 
 My six-month tech cohort is a structured program designed to build comprehensive skills in CyberSecurity, progressing from foundational learning to intensive project development and final refinement.
 
