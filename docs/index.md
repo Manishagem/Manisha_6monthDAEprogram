@@ -42,10 +42,10 @@ My six-month tech cohort is a structured program designed to build comprehensive
 
 ### Explore My Work
 
--   **[Projects](/projects/)**: Discover the projects I've worked on, including my current 3-month project plan for this cohort.
--   **[Resume](/resume/)**: View my detailed professional experience and skills.
--   **[About Me](/about/)**: Learn more about my background, aspirations, and the cohort program.
--   **[Contact](/contact/)**: Get in touch with me for collaborations or opportunities.
+-   **[Projects](https://manishagem.github.io/Manisha_6monthDAEprogram/projects/)**: Discover the projects I've worked on, including my current 3-month project plan for this cohort.
+-   **[Resume](https://manishagem.github.io/Manisha_6monthDAEprogram/resume/)**: View my detailed professional experience and skills.
+-   **[About Me](https://manishagem.github.io/Manisha_6monthDAEprogram/about/)**: Learn more about my background, aspirations, and the cohort program.
+-   **[Contact](/contact.md/)**: Get in touch with me for collaborations or opportunities.
 
 ---
 
