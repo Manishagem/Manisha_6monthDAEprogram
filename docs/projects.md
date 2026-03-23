@@ -6,11 +6,6 @@ permalink: /projects/
 
 # Enterprise Identity Security Platform (EISP)
 
-![IAM](https://img.shields.io/badge/Domain-IAM%20%7C%20Cybersecurity)
-![Cloud](https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure)
-![Status](https://img.shields.io/badge/Project-InProgress)
-![Experience](https://img.shields.io/badge/Experience-8%2B%20Years-informational)
-
 ---
 
 ## Project Overview
