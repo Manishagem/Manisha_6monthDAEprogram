@@ -18,7 +18,7 @@ This portfolio serves as a testament to my learning journey, showcasing projects
 
 ### My Journey
 
-My six-month tech cohort is a structured program designed to build comprehensive skills in my chosen field, progressing from foundational learning to intensive project development and final refinement.
+My six-month tech cohort is a structured program designed to build comprehensive skills in CyberSecurity, progressing from foundational learning to intensive project development and final refinement.
 
 -   **Semester 1: Foundations in Python, Unix, and Prompt Engineering**
     This semester focused on core programming concepts in Python, Unix commands, and prompt engineering, culminating in the development of the "GoFit" Python application.
@@ -33,7 +33,7 @@ My six-month tech cohort is a structured program designed to build comprehensive
     Building on initial development, this semester involved implementing critical features and functionalities, alongside continuous testing and mid-project refinements to align with project goals.
 
 -   **Semester 5: Advanced Development & Integration**
-    During this semester, the project entered advanced stages, tackling complex functionalities and intricate integrations, with an emphasis on cohesive and robust system operation through thorough testing.
+    Developed advanced functionalities and integrated multiple system components to ensure seamless module interaction. Performed integration testing and system validation to ensure stability and reliability.
 
 -   **Semester 6: Project Refinement & Completion**
     The final semester is dedicated to polishing the entire project, including rigorous testing, debugging, comprehensive documentation, and final refinements for deployment or presentation, ensuring a high-quality outcome.
