@@ -12,7 +12,7 @@ Hello! I'm Manisha Gupta, an enthusiastic and dedicated professional currently i
 
 My cohort program is structured to provide a robust foundation and hands-on experience across critical tech areas:
 
--   **Foundational Programming & Scripting:** Gained proficiency in Python, developing applications like "GoFit," and mastering Unix commands for system interaction and scripting.
+-   **Programming & Scripting:** Gained proficiency in Python, developing applications like "GoFit," and mastering Unix commands for system interaction and scripting.
 -   **Automation & API Integration:** Developed automation scripts and integrated various APIs to streamline processes and enhance system functionalities.
 -   **Cloud Infrastructure & AWS:** Acquired knowledge in cloud infrastructure principles with a specific focus on Amazon Web Services (AWS), covering deployment, management, and security of cloud resources.
 -   **Prompt Engineering:** Explored and applied techniques for designing effective prompts to interact with AI models, enhancing my ability to leverage artificial intelligence.

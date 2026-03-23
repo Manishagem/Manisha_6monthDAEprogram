@@ -4,18 +4,18 @@ title: Projects
 permalink: /projects/
 ---
 
-# Enterprise Identity Security Project (EISP)
+# Enterprise Identity Security Platform (EISP)
 
-![IAM](https://img.shields.io/badge/Domain-IAM%20%7C%20Cybersecurity-blue)
-![Cloud](https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure-orange)
-![Status](https://img.shields.io/badge/Project-InProgress-yellow)
+![IAM](https://img.shields.io/badge/Domain-IAM%20%7C%20Cybersecurity)
+![Cloud](https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure)
+![Status](https://img.shields.io/badge/Project-InProgress)
 ![Experience](https://img.shields.io/badge/Experience-8%2B%20Years-informational)
 
 ---
 
 ## Project Overview
 
-The **Enterprise Identity Security Project (EISP)** is a comprehensive initiative focused on designing and implementing a secure, scalable **Identity and Access Management (IAM)** framework for enterprise environments.
+The **Enterprise Identity Security Platform (EISP)** is a comprehensive initiative focused on designing and implementing a secure, scalable **Identity and Access Management (IAM)** framework for enterprise environments.
 
 This project demonstrates real-world capabilities in:
 

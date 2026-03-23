@@ -42,8 +42,8 @@ My six-month tech cohort is a structured program designed to build comprehensive
 
 ### Explore My Work
 
--   **[Resume](/resume/)**: View my detailed professional experience and skills.
 -   **[Projects](/projects/)**: Discover the projects I've worked on, including my current 3-month project plan for this cohort.
+-   **[Resume](/resume/)**: View my detailed professional experience and skills.
 -   **[About Me](/about/)**: Learn more about my background, aspirations, and the cohort program.
 -   **[Contact](/contact/)**: Get in touch with me for collaborations or opportunities.
 
