@@ -4,98 +4,105 @@ title: Resume
 permalink: /resume/
 ---
 
+# Professional Summary
 
-## Professional Summary
+Cybersecurity professional specializing in Identity and Access Management (IAM) with hands-on experience designing a Zero Trust Enterprise Identity Security Platform implementing Identity Lifecycle Management, RBAC, SSO, MFA, passwordless authentication, machine identity governance, and identity threat detection. Experienced in cloud IAM, access governance, and security automation using AWS, Microsoft Entra ID / Okta, Terraform, and Python.
 
-Innovative and detail-oriented professional with over 8 years of experience in designing, developing, and deploying high-quality software solutions. Proficient in multiple programming languages including ASP.Net, C#, SQL, with a strong foundation in Robotic Process Automation (RPA).  
-
-Experienced in collaborating with cross-functional teams to analyze user needs and deliver solutions that streamline operations and drive cost savings. Proven track record of delivering projects on time while adhering to industry best practices.
-
----
-
-## Skills
-
-- **RPA Tools:** UiPath Studio, UiPath Orchestrator, Automation Anywhere  
-- **Programming:** C#, VB.NET, ASP.NET, JavaScript  
-- **Databases:** SQL Server, SQL, PL/SQL  
-- **Web Technologies:** HTML, CSS, Web API, Web Services  
-- **Other Tools:** VBA, GitHub, Jira  
-- **Concepts:** Object-Oriented Programming, Agile, Scrum  
-- **Soft Skills:** Critical Thinking, Communication, Interpersonal Skills  
+Having 8+ years of prior experience in software development and RPA automation, specializing in system integration, automation workflows, and secure application development using UiPath, C#, SQL, and .NET technologies.
 
 ---
 
-## Experience
+# Technical Skills
 
-### Business Process Sr. Rep – Advanced (Assistant Manager)  
-**Keysight Technologies** *(Nov 2021 – June 2023)*  
+**Identity & Access Management:** IAM, RBAC, SSO, MFA, Identity Lifecycle Management, Joiner-Mover-Leaver (JML), Access Provisioning, Least Privilege, Zero Trust
 
-- Designed and deployed RPA solutions using UiPath for SAP, Excel, Web, Citrix, Email, and PDF automation.
-- Optimized bots for performance, scalability, and maintainability.
-- Built monitoring tools like Robot Manager and Logs Viewer.
-- Configured workflows using UiPath Orchestrator.
-- Resolved technical issues across RPA systems.
-- Developed applications using ASP.Net, C#, SQL Server, and Web Services.
-- Worked in Agile environment covering full SDLC.
-- Collaborated with stakeholders for requirement gathering and UAT.
-- Wrote user stories and acceptance criteria.
+**Cloud & Security Tools:** AWS IAM, Microsoft Entra ID (Azure AD), Okta, Terraform (IaC), HashiCorp Vault, Identity Threat Detection
 
----
+**Programming & Scripting:** Python, C#, VB.NET, SQL, JavaScript
 
-### Senior RPA Developer  
-**Hella Automotive** *(Mar 2019 – Oct 2021)*  
+**RPA & Automation:** UiPath Studio, UiPath Orchestrator, VBA
 
-- Developed end-to-end automation solutions.
-- Implemented error handling, VB scripts, Regex, and string manipulation.
-- Supported go-live, installation, and configuration of bots.
-- Performed debugging and exception handling.
-- Identified process improvements and implemented solutions.
-- Maintained documentation for RPA systems.
-- Participated in full SDLC lifecycle.
-- Trained users on UiPath tools.
+**Web & Integration:** ASP.NET, Web API, Web Services, HTML, CSS
+
+**Databases:** SQL Server, MySQL
+
+**Tools & Methodologies:** Agile, SDLC, Jira, GitHub, UAT, Process Design, Documentation
 
 ---
 
-### Software Engineer  
-**SSP Worldwide** *(Sep 2017 – Jul 2018)*  
+# Professional Experience
 
-- Developed and maintained applications using JavaScript, HTML, CSS.
-- Wrote complex SQL queries and stored procedures.
-- Collaborated with product owners for requirement prioritization.
-- Applied object-oriented design principles.
-- Created user interfaces and improved existing codebases.
-- Prepared technical documentation.
+## DAE – Cybersecurity IAM Cohort (Feb 2026 – Jul 2026)
 
----
+**Enterprise Identity Security Platform (EISP) – Zero Trust IAM Architecture**
 
-### Software Engineer  
-**Make My Trip** *(Feb 2013 – Sep 2015)*  
-
-- Developed applications using ASP.Net, C#, SQL Server.
-- Provided end-user support and issue resolution.
-- Integrated systems via APIs.
-- Maintained databases and optimized queries.
-- Used version control for code management.
-- Participated in Agile development processes.
+* Designed and developed a Zero Trust Enterprise Identity Security Platform implementing Identity and Access Management (IAM) and automated identity lifecycle processes.
+* Implemented Identity Lifecycle Management (JML) including automated user provisioning, role assignment, access modification, and deprovisioning workflows.
+* Configured RBAC, SSO, MFA, and passwordless authentication using centralized identity providers (Microsoft Entra ID / Okta) integrated with AWS IAM.
+* Implemented machine identity governance using secure credential storage, secrets management, and automated credential rotation.
+* Automated IAM infrastructure deployment using Terraform (Infrastructure as Code) and developed Python scripts for provisioning, monitoring, and security automation.
+* Designed identity threat detection and response workflows to detect suspicious login activity, privilege escalation, and unauthorized access.
+* Produced architecture diagrams, workflow documentation, and technical design documentation following Zero Trust and least-privilege principles.
 
 ---
 
-## Education
+## Business Process Sr. Rep – Advanced (Assistant Manager)
 
-- **Master of Computer Applications (MCA)** – 2013  
-- **Bachelor of Computer Applications (BCA)** – 2010  
+**Keysight Technologies (Nov 2021 – Jun 2023)**
 
----
-
-## Certifications
-
-- UiPath RPA Level 1 – Foundation Training (2018.3)  
-- UiPath RPA Level 2 – Orchestrator (2018.2)  
-- UiPath RPA AI Computer Vision  
-- UiPath RPA Developer – SAP Automation  
+* Designed, developed, and deployed RPA solutions using UiPath, automating business processes across SAP, Web, Excel, Citrix, Email, and PDF systems.
+* Improved bot performance, scalability, reliability, and security by optimizing automation workflows and implementing exception handling and logging mechanisms.
+* Developed internal monitoring tools (Robot Manager, Logs Viewer) to track bot performance, failures, and audit logs.
+* Worked in Agile SDLC environment, handling requirements gathering, process design, development, UAT, deployment, and production support.
+* Collaborated with business stakeholders and SMEs to analyze processes, identify automation opportunities, and implement scalable automation solutions.
 
 ---
 
-## References
+## Senior RPA Developer
 
-Available upon request.
+**Hella Automotive (Mar 2019 – Oct 2021)**
+
+* Developed end-to-end automation workflows using UiPath for SAP, Web, Excel, PDF, Database, and Email-based processes.
+* Implemented error handling, logging, and reusable components, improving automation reliability and maintainability.
+* Participated in full Software Development Life Cycle (SDLC) including requirements analysis, design, development, testing, and deployment.
+* Created detailed technical documentation, test plans, and troubleshooting guides.
+* Trained users and junior developers on UiPath Studio and Orchestrator.
+
+---
+
+## Software Engineer
+
+**SSP Worldwide (Sep 2017 – Jul 2018)**
+
+* Developed web-based applications using JavaScript, HTML, CSS, and backend services using SQL and stored procedures.
+* Applied object-oriented programming principles and Agile methodology for software development.
+* Refactored legacy code to improve performance, readability, and maintainability.
+* Created technical documentation and supported system architecture and development processes.
+
+---
+
+## Software Engineer
+
+**MakeMyTrip (Feb 2013 – Sep 2015)**
+
+* Developed enterprise applications using ASP.NET, C#, SQL, Web Services, and Windows Services.
+* Integrated multiple systems using APIs and web services.
+* Wrote complex SQL queries and stored procedures for data processing and reporting.
+* Provided production support, bug fixes, and system enhancements in Agile environment.
+
+---
+
+# Education
+
+* **Master of Computer Applications** – 2013
+* **Bachelor of Computer Applications** – 2010
+
+---
+
+# Certifications
+
+* Certified in UiPath RPA Level 1 – Foundation Training (2018.3)
+* Certified in UiPath RPA Level 2 – Orchestrator (2018.2)
+* Certified in UiPath RPA AI Computer Vision
+* Certified in UiPath RPA Developer – SAP Automation Training
+
