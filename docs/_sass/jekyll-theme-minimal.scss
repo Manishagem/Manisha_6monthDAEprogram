@@ -3,10 +3,14 @@
 
 body {
   background-color: #fff;
-  padding:50px;
+  padding: 50px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#727272;
-  font-weight:400;
+  color: #727272;
+  font-weight: 400;
+
+  @media screen and (max-width: 768px) {
+    padding: 20px;
+  }
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -56,8 +60,17 @@ a:hover small {
 }
 
 .wrapper {
-  width:860px;
-  margin:0 auto;
+  width: 860px;
+  margin: 0 auto;
+
+  @media screen and (max-width: 960px) {
+    width: 100%;
+    padding: 0 20px;
+  }
+
+  @media screen and (max-width: 768px) {
+    padding: 0;
+  }
 }
 
 blockquote {
@@ -119,10 +132,18 @@ kbd {
 }
 
 header {
-  width:270px;
-  float:left;
-  position:fixed;
-  -webkit-font-smoothing:subpixel-antialiased;
+  width: 270px;
+  float: left;
+  position: fixed;
+  -webkit-font-smoothing: subpixel-antialiased;
+
+  @media screen and (max-width: 960px) {
+    width: 100%;
+    float: none;
+    position: static;
+    padding: 0;
+    margin-bottom: 20px;
+  }
 }
 
 ul.downloads {
@@ -133,6 +154,15 @@ ul.downloads {
   border-radius:5px;
   border:1px solid #e0e0e0;
   width:270px;
+
+  @media screen and (max-width: 960px) {
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    border: none;
+    background: none;
+  }
 }
 
 .downloads li {
@@ -140,14 +170,33 @@ ul.downloads {
   float:left;
   border-right:1px solid #e0e0e0;
   height:40px;
+
+  @media screen and (max-width: 960px) {
+    width: 100%;
+    float: none;
+    border-right: none;
+    height: auto;
+    margin-bottom: 5px;
+    border: 1px solid #e0e0e0;
+    background: #f4f4f4;
+    border-radius: 5px;
+  }
 }
 
 .downloads li:first-child a {
   border-radius:5px 0 0 5px;
+
+  @media screen and (max-width: 960px) {
+    border-radius: 5px;
+  }
 }
 
 .downloads li:last-child a {
   border-radius:0 5px 5px 0;
+
+  @media screen and (max-width: 960px) {
+    border-radius: 5px;
+  }
 }
 
 .downloads a {
@@ -158,6 +207,13 @@ ul.downloads {
   text-align:center;
   padding-top:6px;
   height:34px;
+
+  @media screen and (max-width: 960px) {
+    height: auto;
+    padding: 10px;
+    font-size: 14px;
+    line-height: normal;
+  }
 }
 
 .downloads a:hover, .downloads a:focus {
@@ -177,18 +233,90 @@ strong {
 .downloads li + li + li {
   border-right:none;
   width:89px;
+
+  @media screen and (max-width: 960px) {
+    width: 100%;
+  }
 }
 
 .downloads a strong {
   font-size:14px;
   display:block;
   color:#222;
+
+  @media screen and (max-width: 960px) {
+    font-size: 16px;
+  }
+}
+
+/* Header Navigation */
+.header-nav {
+  margin-top: 20px;
+
+  @media screen and (max-width: 960px) {
+    margin-top: 0;
+    margin-bottom: 20px;
+  }
+}
+
+.header-nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+
+  @media screen and (max-width: 960px) {
+    display: flex;
+    flex-direction: column;
+  }
+}
+
+.header-nav li {
+  display: inline-block;
+  margin-right: 15px;
+
+  @media screen and (max-width: 960px) {
+    display: block;
+    margin: 0;
+    border-bottom: 1px solid #eee;
+  }
+}
+
+.header-nav li:last-child {
+  margin-right: 0;
+
+  @media screen and (max-width: 960px) {
+    border-bottom: none;
+  }
+}
+
+.header-nav a {
+  display: block;
+  padding: 5px 0;
+  font-weight: bold;
+  color: #555;
+
+  @media screen and (max-width: 960px) {
+    padding: 10px;
+    text-align: center;
+    font-size: 16px;
+    color: #267CB9;
+  }
+}
+
+.header-nav a:hover {
+  color: #069;
 }
 
 section {
-  width:500px;
-  float:right;
-  padding-bottom:50px;
+  width: 500px;
+  float: right;
+  padding-bottom: 50px;
+
+  @media screen and (max-width: 960px) {
+    width: 100%;
+    float: none;
+    padding: 0;
+  }
 }
 
 small {

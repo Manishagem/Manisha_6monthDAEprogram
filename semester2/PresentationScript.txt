@@ -67,6 +67,6 @@ One-Line Summary (If They Ask: “Explain your project in one line”)
 
 Prepare this line:
 
-“My project is an AI-enabled Identity and Access Management platform that automates user access control and improves organizational security.”
+“My project is an Identity and Access Management platform that automates user access control and improves organizational security.”
 
 Memorize this line — it’s your power statement.
