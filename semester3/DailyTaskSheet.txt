@@ -1,4 +1,6 @@
 3/30/2026 Changes updated in Monday.com to incorporate Rubric requirement.
 3/31/2026 Changes updated in Monday.com to incorporate Rubric requirement. Learn about Cybersecurity basics.
 4/1/2026 Created Incident response plan and security policy with the help of Cluade. Trying to find tools I will be using for EISP.
-4/2/2016 Understanding what are different tools that I will be using, what do they do. Reaserching about tools to use for my project. Like OKTA or MS Entra.
+4/2/2026 Understanding what are different tools that I will be using, what do they do. Reaserching about tools to use for my project. Like OKTA or MS Entra.
+4/6/2026: Finalizing Tech stack and Doing the 1 Rubric activity from threat and vulnerability
+4/7/2026: Doing the 2 Rubric activity from threat and vulnerability. Activity by Kay.
