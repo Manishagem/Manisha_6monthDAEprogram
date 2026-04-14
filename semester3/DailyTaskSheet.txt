@@ -4,3 +4,4 @@
 4/2/2026 Understanding what are different tools that I will be using, what do they do. Reaserching about tools to use for my project. Like OKTA or MS Entra.
 4/6/2026: Finalizing Tech stack and Doing the 1 Rubric activity from threat and vulnerability
 4/7/2026: Doing the 2 Rubric activity from threat and vulnerability. Activity by Kay.
+4/14/2026 - Learnt Docker, Ldap/AD. Setup AWS accounts.
