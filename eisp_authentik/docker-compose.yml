@@ -7,13 +7,10 @@ services:
       POSTGRES_PASSWORD: ${PG_PASS:?database password required}
       POSTGRES_USER: ${PG_USER:-authentik}
     healthcheck:
-      interval: 30s
-      retries: 5
-      start_period: 20s
-      test:
-      - CMD-SHELL
-      - pg_isready -d $${POSTGRES_DB} -U $${POSTGRES_USER}
-      timeout: 5s
+     test: ["CMD-SHELL", "pg_isready -U ${PG_USER:-authentik} -d ${PG_DB:-authentik}"]
+     interval: 10s
+     timeout: 5s
+     retries: 5
     image: docker.io/library/postgres:16-alpine
     restart: unless-stopped
     volumes:
