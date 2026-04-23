@@ -7,14 +7,15 @@ services:
       POSTGRES_PASSWORD: ${PG_PASS:?database password required}
       POSTGRES_USER: ${PG_USER:-authentik}
     healthcheck:
-     test: ["CMD-SHELL", "pg_isready -U ${PG_USER:-authentik} -d ${PG_DB:-authentik}"]
-     interval: 10s
-     timeout: 5s
-     retries: 5
+      test: ["CMD-SHELL", "pg_isready -U ${PG_USER:-authentik} -d ${PG_DB:-authentik}"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
     image: docker.io/library/postgres:16-alpine
     restart: unless-stopped
     volumes:
     - database:/var/lib/postgresql/data
+
   server:
     command: server
     depends_on:
@@ -32,11 +33,13 @@ services:
     ports:
     - ${COMPOSE_PORT_HTTP:-9000}:9000
     - ${COMPOSE_PORT_HTTPS:-9443}:9443
+    - "8088:9000"
     restart: unless-stopped
     shm_size: 512mb
     volumes:
     - ./data:/data
     - ./custom-templates:/templates
+
   worker:
     command: worker
     depends_on:
@@ -59,6 +62,22 @@ services:
     - ./data:/data
     - ./certs:/certs
     - ./custom-templates:/templates
-volumes:
+
+  authentik_ldap:
+    image: ghcr.io/goauthentik/ldap:2026.2.2
+    restart: unless-stopped
+    ports:
+      - "389:3389"
+      - "636:6636"
+    environment:
+      AUTHENTIK_HOST: "http://server:9000"
+      AUTHENTIK_INSECURE: "true"
+      AUTHENTIK_TOKEN: "W9YKi8U6xpMSkd1ZryWEYNw51oSWbYsgKjGz2yQdnp7mlhys3NVy5l4iDmvi"
+
+  whoami:                        # ✅ CORRECT: inside services, 2-space indent
+    image: traefik/whoami
+    restart: unless-stopped
+
+volumes:                         # ✅ CORRECT: volumes at root level, AFTER all services
   database:
     driver: local
