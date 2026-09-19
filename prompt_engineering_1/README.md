@@ -1,11 +1,24 @@
 # prompt_engineering_1
 
-This folder contains resources and documents related to prompt engineering, a discipline focused on designing and optimizing prompts for AI models to achieve desired outputs.
+Work from the **Prompt Engineering** module, which covers writing clear prompts for AI tools and checking the results.
 
 ## Contents
 
--   **Prompt.pages:** An Apple Pages document likely containing examples, guidelines, or theoretical discussions on prompt engineering techniques and strategies.
+| File | What it is |
+|------|------------|
+| `Prompt.pages` | An Apple Pages document containing an illustrated infographic titled **"For and While Loops in Python"**. |
 
-## Purpose
+## What is in the document
 
-The main purpose of this folder is to store and organize materials pertinent to the study and application of prompt engineering, supporting the development of effective interactions with artificial intelligence systems.
+The infographic compares the two Python loop types side by side:
+
+- **For loop:** repeats a fixed number of times, for example `for number in range(1, 5)`, with a small flowchart and sample output.
+- **While loop:** repeats until a condition changes, for example `count = 1` with `while count <= 4`, with a flowchart, a tip about updating the counter so the loop can end, and sample output.
+
+## Opening the file
+
+`.pages` files open in Apple Pages on a Mac, iPhone, or iPad, or at iCloud.com. On Windows or Linux, export it from Pages as PDF first.
+
+## Related folders
+
+- [`../pyhton_1/loop.py`](../pyhton_1/loop.py): my own working example of the same `while` and `for` loops.
