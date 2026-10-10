@@ -1,14 +1,8 @@
-# assets
+# Assets
 
-This folder centralizes all static assets for the Jekyll-powered GitHub Pages site, including stylesheets, fonts, images, and JavaScript files. This organization helps in managing resources efficiently and maintaining a consistent visual and interactive experience across the website.
+This folder contains static assets for the website, including CSS, fonts, images, and JavaScript files. It is organized into subfolders:
 
-## Contents
-
--   **css/:** Contains compiled or source CSS files that define the styling of the website.
--   **fonts/:** Stores custom font files used for typography on the site.
--   **img/:** Houses image assets, such as logos, icons, and other graphical elements.
--   **js/:** Contains JavaScript files used for interactive functionalities and client-side scripting.
-
-## Purpose
-
-The main purpose of this folder is to serve as a single, organized location for all static resources required by the website, ensuring that they are easily accessible, manageable, and performant for the GitHub Pages deployment.
+- [css](file:///c:/Users/manis/OneDrive/Desktop/Manisha_6monthDAEprogram/docs/assets/css/README.md): Cascading Style Sheets.
+- [fonts](file:///c:/Users/manis/OneDrive/Desktop/Manisha_6monthDAEprogram/docs/assets/fonts/README.md): Web font files.
+- [img](file:///c:/Users/manis/OneDrive/Desktop/Manisha_6monthDAEprogram/docs/assets/img/README.md): Image assets.
+- [js](file:///c:/Users/manis/OneDrive/Desktop/Manisha_6monthDAEprogram/docs/assets/js/README.md): JavaScript files.

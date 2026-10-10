@@ -1,14 +1,7 @@
-# fonts
+# Fonts
 
-This folder is dedicated to storing custom font files used throughout the GitHub Pages website. Utilizing custom fonts helps in establishing a unique brand identity and improving the aesthetic appeal of the site's typography.
-
-## Contents
-
--   **Noto-Sans-700/:** Contains font files for Noto Sans, bold (700 weight).
--   **Noto-Sans-700italic/:** Contains font files for Noto Sans, bold and italic (700 weight, italic style).
--   **Noto-Sans-italic/:** Contains font files for Noto Sans, italic style.
--   **Noto-Sans-regular/:** Contains font files for Noto Sans, regular weight.
-
-## Purpose
-
-The main purpose of this folder is to centralize all font assets, making them easily manageable and ensuring consistent typography across the entire website, enhancing readability and design.
+This folder contains various font files used across the website, organized by font style and weight. Key subfolders include:
+- [Noto-Sans-700](file:///c:/Users/manis/OneDrive/Desktop/Manisha_6monthDAEprogram/docs/assets/fonts/Noto-Sans-700/README.md): Noto Sans Bold font files.
+- [Noto-Sans-700italic](file:///c:/Users/manis/OneDrive/Desktop/Manisha_6monthDAEprogram/docs/assets/fonts/Noto-Sans-700italic/README.md): Noto Sans Bold Italic font files.
+- [Noto-Sans-italic](file:///c:/Users/manis/OneDrive/Desktop/Manisha_6monthDAEprogram/docs/assets/fonts/Noto-Sans-italic/README.md): Noto Sans Italic font files.
+- [Noto-Sans-regular](file:///c:/Users/manis/OneDrive/Desktop/Manisha_6monthDAEprogram/docs/assets/fonts/Noto-Sans-regular/README.md): Noto Sans Regular font files.
