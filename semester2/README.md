@@ -1,10 +1,19 @@
-# Semester 2
+# Semester 2: Project Planning & Design
 
-This folder contains documents and files related to Semester 2 projects and planning. Key files include:
-- `EISP_12Week_ProjectPlan_Monday.xlsx`: The 12-week project plan for EISP.
-- `EISP_Updated_ProjectPlan_revised.xlsx`: A revised version of the EISP project plan.
-- `IAM Engineer.pdf`: A document related to IAM Engineer role or concepts.
-- `Manisha_Gupta_EISP_Design_Document_v1.1.docx`: Manisha Gupta's EISP Design Document, version 1.1.
-- `Manisha_Gupta_Enterprise_Identity_Security_Platform_Design_Document.docx`: Manisha Gupta's Enterprise Identity Security Platform Design Document.
-- `Manisha_IAMCohort_Showcase.pptx`: Presentation for Manisha's IAM Cohort Showcase.
-- `git_status_output.txt`: Text file containing git status output.
+This module covers the initial planning and high-level design phases for the Enterprise Identity Security Platform (EISP).
+
+## Project Documentation
+
+| Document | Description |
+| :--- | :--- |
+| `Manisha_Gupta_EISP_Design_Document_v1.1.docx` | Comprehensive design document for EISP (v1.1). |
+| `EISP_12Week_ProjectPlan_Monday.xlsx` | 12-week strategic project roadmap. |
+| `Manisha_IAMCohort_Showcase.pptx` | Presentation for the IAM Cohort Showcase. |
+| `IAM Engineer.pdf` | Role descriptions and core IAM engineering concepts. |
+| `EISP_Updated_ProjectPlan_revised.xlsx` | Revised project plan with updated milestones. |
+
+## Key Artifacts
+
+- **Design Docs**: Detailed architectural specifications for EISP.
+- **Project Plans**: Timeframes and deliverables for the 12-week program.
+- **Showcase**: Presentation materials for program milestones.

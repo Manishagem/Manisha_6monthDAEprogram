@@ -1,4 +1,13 @@
-# JavaScript
+# JavaScript Assets
 
-This folder contains JavaScript files for the website. Key files include:
-- `scale.fix.js`: A JavaScript file, likely for fixing scaling issues or responsive design.
+This directory contains JavaScript files providing interactive functionality for the documentation site.
+
+## Script Inventory
+
+| File | Purpose |
+| :--- | :--- |
+| `scale.fix.js` | Ensures consistent scaling and responsive behavior across various mobile browsers. |
+
+## Usage
+
+These scripts are automatically included in the site's layout to enhance user experience on mobile devices.

@@ -1,20 +1,37 @@
-# Manisha_6monthDAEprogram
+# Manisha 6-Month DAE Program
 
-This repository contains various projects, documents, and resources developed as part of the Manisha_6monthDAEprogram. It is organized into several thematic folders:
+This repository contains various projects, documents, and resources developed as part of the **Manisha 6-Month DAE Program**. It is organized into several thematic modules focusing on cybersecurity, cloud security, and prompt engineering.
 
-- [cloud_security_1](file:///c:/Users/manis/OneDrive/Desktop/Manisha_6monthDAEprogram/cloud_security_1/README.md): Documents related to cloud security fundamentals, architecture, and operations.
-- [cyber_threats_and_vulnerabilities_1](file:///c:/Users/manis/OneDrive/Desktop/Manisha_6monthDAEprogram/cyber_threats_and_vulnerabilities_1/README.md): Resources on cyber threats, vulnerability assessments, and risk management.
-- [cybersecurity_basics_1](file:///c:/Users/manis/OneDrive/Desktop/Manisha_6monthDAEprogram/cybersecurity_basics_1/README.md): Foundational cybersecurity documents, including incident response and security policies.
-- [docs](file:///c:/Users/manis/OneDrive/Desktop/Manisha_6monthDAEprogram/docs/README.md): Comprehensive documentation for the program.
-- [eisp-iam](file:///c:/Users/manis/OneDrive/Desktop/Manisha_6monthDAEprogram/eisp-iam/README.md): Terraform configurations for EISP Identity and Access Management.
-- [eisp_authentik](file:///c:/Users/manis/OneDrive/Desktop/Manisha_6monthDAEprogram/eisp_authentik/README.md): Configuration files for Authentik within EISP.
-- [firstPythonProject](file:///c:/Users/manis/OneDrive/Desktop/Manisha_6monthDAEprogram/firstPythonProject/README.md): Initial Python programming projects.
-- [logic_1](file:///c:/Users/manis/OneDrive/Desktop/Manisha_6monthDAEprogram/logic_1/README.md): Documents and flowcharts related to algorithms and logical problem-solving.
-- [network_security_1](file:///c:/Users/manis/OneDrive/Desktop/Manisha_6monthDAEprogram/network_security_1/README.md): Reports and documents covering network security principles and tools.
-- [prompt_engineering_1](file:///c:/Users/manis/OneDrive/Desktop/Manisha_6monthDAEprogram/prompt_engineering_1/README.md): Resources focused on prompt engineering techniques.
-- [pyhton_1](file:///c:/Users/manis/OneDrive/Desktop/Manisha_6monthDAEprogram/pyhton_1/README.md): Various Python scripts and programming examples.
-- [semester2](file:///c:/Users/manis/OneDrive/Desktop/Manisha_6monthDAEprogram/semester2/README.md): Project plans and documents from Semester 2.
-- [semester3](file:///c:/Users/manis/OneDrive/Desktop/Manisha_6monthDAEprogram/semester3/README.md): Project documents, plans, and technical artifacts from Semester 3.
-- [semester4](file:///c:/manis/OneDrive/Desktop/Manisha_6monthDAEprogram/semester4/README.md): Presentations and documents from Semester 4, including showcase materials.
-- [unix_1](file:///c:/Users/manis/OneDrive/Desktop/Manisha_6monthDAEprogram/unix_1/README.md): Resources and commands related to Unix operating systems.
-- [version_control_1](file:///c:/Users/manis/OneDrive/Desktop/Manisha_6monthDAEprogram/version_control_1/README.md): Files demonstrating version control concepts and usage.
+## Repository Structure
+
+| Module | Description |
+| :--- | :--- |
+| [Cloud Security](./cloud_security_1/) | Fundamentals, architecture, and operations. |
+| [Cyber Threats](./cyber_threats_and_vulnerabilities_1/) | Vulnerability assessments and risk management. |
+| [Cybersecurity Basics](./cybersecurity_basics_1/) | Incident response and security policies. |
+| [Docs](./docs/) | Comprehensive program documentation. |
+| [EISP IAM](./eisp-iam/) | Terraform configurations for Identity & Access Management. |
+| [EISP Authentik](./eisp_authentik/) | Authentik configuration files. |
+| [Python Projects](./firstPythonProject/) | Initial programming projects and scripts. |
+| [Logic & Algorithms](./logic_1/) | Algorithms and logical problem-solving flowcharts. |
+| [Network Security](./network_security_1/) | Reports and documents on security principles. |
+| [Prompt Engineering](./prompt_engineering_1/) | Techniques and resources for AI prompting. |
+| [Unix Basics](./unix_1/) | Unix operating system commands and resources. |
+| [Version Control](./version_control_1/) | Git and version control concepts. |
+
+## Program Semesters
+
+- [Semester 2](./semester2/README.md): Project plans and documents.
+- [Semester 3](./semester3/README.md): Technical artifacts and project documents.
+- [Semester 4](./semester4/README.md): Presentations and showcase materials.
+- [Semester 5](./semester5/README.md): Compliance and auditing documentation.
+
+## Getting Started
+
+To explore a specific module, navigate to its directory and review the local `README.md` for detailed instructions.
+
+```bash
+# Example: Navigating to the Python module
+cd pyhton_1
+python main.py
+```

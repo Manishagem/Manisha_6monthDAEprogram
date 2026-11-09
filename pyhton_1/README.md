@@ -1,7 +1,24 @@
-# Python Projects
+# Python Scripting
 
-This folder contains various Python scripts. Key files include:
-- `GoFit.py`: A Python script, likely related to a fitness application.
-- `RollADie.py`: A Python script to simulate rolling a die.
-- `loop.py`: A Python script demonstrating loop functionalities.
-- `testFile.py`: A Python script for testing purposes.
+A collection of Python scripts demonstrating various programming concepts, from basic loops to utility applications.
+
+## Script Inventory
+
+| Script | Functionality |
+| :--- | :--- |
+| `GoFit.py` | Fitness application logic and tracking. |
+| `RollADie.py` | A simple random number generator simulating a die roll. |
+| `loop.py` | Examples of iterative logic and loop control structures. |
+| `testFile.py` | General-purpose testing playground for new features. |
+
+## Running the Scripts
+
+Ensure you have [Python 3.x](https://www.python.org/downloads/) installed.
+
+```bash
+# Example: Running the fitness script
+python GoFit.py
+
+# Example: Running the die simulator
+python RollADie.py
+```
